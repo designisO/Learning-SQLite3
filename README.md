@@ -11,7 +11,7 @@ SQLite3 is a software library that provides a RDMS (Relational database manageme
 
 SQLite3 is serverless, self-contained and has zero-configuration. Unlike PostgreSQL, MySQL and etc, they require a separate server process to operate. It is intergrated within the application accessing the database. Applications will read and write directly from the database files stored on disk.
 
-During the learnings I found that the database single connection to access multiple database files. This helps with features like joining tables in different databases or copying data between db in a single command. This is niiiiiice. 
+During the learnings I found that the database single connection to access multiple database files. This helps with features like joining tables in different databases or copying data between db in a single command. This is niiiiiice. The data I used for this project is of Grand Theft Auto video games. Enjoy.
 
 ### Database Data Info
 
